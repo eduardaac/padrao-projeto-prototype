@@ -13,6 +13,3 @@ O objetivo principal do padrão Prototype é **especificar os tipos de objetos a
 
 Eduarda Araujo Carvalho
 
----
-
-Tem mais alguma seção que você gostaria de adicionar a este README, como instruções de execução ou pré-requisitos?
